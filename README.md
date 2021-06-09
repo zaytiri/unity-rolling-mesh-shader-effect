@@ -1,4 +1,4 @@
-# unity-rolling-mesh-shader-effect
+# Rolling Mesh Shader Effect for Unity
 
 This shader has an effect of rolling (like a paper) a procedural mesh, being a simple generated cube.
 
