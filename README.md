@@ -8,4 +8,5 @@ The basic code was provided by the following link:
 https://gamedev.stackexchange.com/questions/151904/how-can-i-roll-up-a-plane-with-a-vertex-shader
 
 ## Preview:
-https://user-images.githubusercontent.com/64491586/201116121-d9a2ce6a-92f3-46f3-b877-9217604ac220.mp4
+
+https://user-images.githubusercontent.com/64491586/201116341-3ae70d58-eebe-411d-8d32-e0e78d14dbf6.mp4
